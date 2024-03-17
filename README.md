@@ -1,4 +1,5 @@
-# FinalProj4stock
+# Extraction and Visualization
+
 
 This is my final project for data science where I have to :
 At this point please ensure you have completed the two previous yfinance and web scraping labs. In this assignment you will upload screenshots of your code and results. You will also be reviewing the submission for one of your peers and grading their work.
